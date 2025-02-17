@@ -1,0 +1,14 @@
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\bin\Debug\net8.0\sharp1.exe
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\bin\Debug\net8.0\sharp1.deps.json
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\bin\Debug\net8.0\sharp1.runtimeconfig.json
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\bin\Debug\net8.0\sharp1.dll
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\bin\Debug\net8.0\sharp1.pdb
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.GeneratedMSBuildEditorConfig.editorconfig
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.AssemblyInfoInputs.cache
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.AssemblyInfo.cs
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.csproj.CoreCompileInputs.cache
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.dll
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\refint\sharp1.dll
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.pdb
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\sharp1.genruntimeconfig.cache
+B:\вуз\0_Академия\Академия 3 курс\sharp\sharp1\sharp1\obj\Debug\net8.0\ref\sharp1.dll
