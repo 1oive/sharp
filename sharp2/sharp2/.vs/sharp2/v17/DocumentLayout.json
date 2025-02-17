@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC96F0FD-9919-423A-8733-4B58C3AB7E23}|sharp2\\sharp2.csproj|b:\\\u0432\u0443\u0437\\0_\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\sharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC96F0FD-9919-423A-8733-4B58C3AB7E23}|sharp2\\sharp2.csproj|solutionrelative:sharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\sharp2\\Program.cs",
+              "RelativeDocumentMoniker": "sharp2\\Program.cs",
+              "ToolTip": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\sharp2\\Program.cs",
+              "RelativeToolTip": "sharp2\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA4wCMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:34:03.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
