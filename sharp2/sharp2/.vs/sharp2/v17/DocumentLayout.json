@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC96F0FD-9919-423A-8733-4B58C3AB7E23}|sharp2\\sharp2.csproj|b:\\\u0432\u0443\u0437\\0_\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\sharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC96F0FD-9919-423A-8733-4B58C3AB7E23}|sharp2\\sharp2.csproj|solutionrelative:sharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|b:\\\u0432\u0443\u0437\\0_\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\entity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|solutionrelative:entity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|b:\\\u0432\u0443\u0437\\0_\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\entity\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|solutionrelative:entity\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|b:\\\u0432\u0443\u0437\\0_\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\entity\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|b:\\\u0432\u0443\u0437\\0_\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\entity\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBBE057-FABA-45D6-90CB-8429B52AEA2D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,17 +37,65 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1937836573:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Student.cs",
+              "ToolTip": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\Entities\\Student.cs",
+              "RelativeToolTip": "Entity\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:34:57.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\Entities\\Grade.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Grade.cs",
+              "ToolTip": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\Entities\\Grade.cs",
+              "RelativeToolTip": "Entity\\Entities\\Grade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:45:23.148Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\sharp2\\Program.cs",
-              "RelativeDocumentMoniker": "sharp2\\Program.cs",
-              "ToolTip": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\sharp2\\Program.cs",
-              "RelativeToolTip": "sharp2\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA4wH8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\Program.cs",
+              "RelativeDocumentMoniker": "Entity\\Program.cs",
+              "ToolTip": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\Program.cs",
+              "RelativeToolTip": "Entity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:34:03.3Z",
+              "WhenOpened": "2025-02-25T08:11:21.606Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Entity\\ApplicationContext.cs",
+              "ToolTip": "B:\\\u0432\u0443\u0437\\0_\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F 3 \u043A\u0443\u0440\u0441\\sharp\\sharp2\\sharp2\\Entity\\ApplicationContext.cs",
+              "RelativeToolTip": "Entity\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:09:38.512Z"
             }
           ]
         }
